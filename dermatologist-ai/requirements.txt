@@ -1,0 +1,6 @@
+gunicorn
+flask
+torch
+torchvision
+Pillow
+requests
